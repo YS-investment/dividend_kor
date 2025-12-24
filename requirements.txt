@@ -1,0 +1,29 @@
+# Dividend Stock Analysis Platform - Requirements
+
+# Core web framework
+streamlit
+
+# Data processing
+pandas
+numpy
+
+# Financial data
+yfinance
+
+# Visualization
+plotly
+scipy
+
+# Web scraping (for future data collection)
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+webdriver-manager>=4.0.0
+requests
+
+# Utilities
+python-dotenv
+tqdm>=4.66.0
+tenacity>=8.2.0
+
+# Optional exports
+openpyxl
